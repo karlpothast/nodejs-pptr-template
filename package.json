@@ -1,0 +1,15 @@
+{
+  "name": "ppt-template",
+  "version": "1.0.0",
+  "description": "Puppeteer Template",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jsdom": "^24.1.1",
+    "node-html-parser": "^6.1.12",
+    "ogv": "^1.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

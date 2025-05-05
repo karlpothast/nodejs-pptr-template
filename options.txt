@@ -1,0 +1,19 @@
+
+//vars
+let outputDirectory = "";
+let outputFilePath;
+let nl = "\n";
+let debug = true;
+const acceptCookies = true;
+let _headlessMode = true;
+
+//puppeteer.launch({ headless: _headlessMode, userDataDir: userDataDirectory, args: [] }).then(async browser => {
+//}
+
+////puppeteer.launch({ headless: _headlessMode, userDataDir: _userDataDir, args: ['--start-maximized', '--force-device-scale-factor=0.75'] }).then(async browser => {
+
+args: 
+[
+'--start-maximized', 
+'--force-device-scale-factor=0.5'
+]
